@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1639736731 source:d:\university\third year-first semester\my_works\c++ project\code\amigos3.0\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<unistd.h>
+	<fstream>
+	<ctime>
+
+1639736731 source:d:\hadi\courses\code blocks\c++\c++ project\amigos3.0\amigos3.0\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<windows.h>
+	<unistd.h>
+	<fstream>
+	<ctime>
+
