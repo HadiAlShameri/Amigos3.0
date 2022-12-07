@@ -17,8 +17,8 @@ Note!!
 
 1- HR Department Password: pass
 
-2- Warehouse - Dealer password: admin
+2- Warehouse - Dealer Password: admin
 
-3- Employee password: usr
+3- Employee Password: usr
 
 4- Cashier Password: pass
